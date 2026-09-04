@@ -118,19 +118,19 @@ These operations help analyse the structure and connectivity of the road network
 
 ### Main Application
 
-![Main Screen](screenshots/main-screen.png)
+![Main Screen](main-screen.png)
 
 ### Shortest Route
 
-![Shortest Route](screenshots/shortest-route.png)
+![Shortest Route](shortest-route.png)
 
 ### Road Network
 
-![Road Network](screenshots/road-network.png)
+![Road Network](road-network.png)
 
 ### Delivery Planner
 
-![Delivery Planner](screenshots/delivery-planner.png)
+![Delivery Planner](delivery-planner.png)
 
 ---
 
