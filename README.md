@@ -158,13 +158,4 @@ All these DSA operations are connected to a **Java Swing GUI**, allowing the use
 
 ---
 
-## ▶️ How to Run
 
-### Run from Source
-
-Make sure Java is installed on your system.
-
-Compile the source code:
-
-```bash
-javac RoutePlanner.java
